@@ -1,3 +1,6 @@
+#AudioAPI FFMPEG install
+AudioAPI/
+
 #Package Declare
 __init__.py
 
